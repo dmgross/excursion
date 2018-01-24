@@ -1,0 +1,36 @@
+/*Body styles */
+body{
+  background-color: Black;
+  text-align: center;
+  font-family: verdana;
+}
+/*Discover etc. text style*/
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+/*h2 headings*/
+h2{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+/*copyright styling*/
+.copyright{
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
+/*donwload excursion link*/
+.download{
+  color: Aquamarine;
+  font-size: 16px;
+}
+.imageheader{
+  font-size: 21px;
+  color: Gray;
+}
+.footer{
+  font-weight: bold;
+}
